@@ -6,7 +6,7 @@
 ### Host + Port
 
 ```
-    Host: icardemo.pyroject.com
+    Host: ""
     Port: 1883 (MQTT), 8080 (MQTT Over Websocket)
     Username: ""
     Password: ""
@@ -18,7 +18,7 @@ Can use AWS IoT, etc
 ####  LWT:
 
 ```
-    Topic: tele/A82A95/LWT
+    Topic: "tele/A82A95/LWT"
     Online Payload: "Online"
     Offline Payload: "Offline"
 ```
